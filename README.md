@@ -1,2 +1,2 @@
 # DataScience-PracticeProjects
-Includes all the mini projects from the data scientist career track
+Includes data science mini projects 
